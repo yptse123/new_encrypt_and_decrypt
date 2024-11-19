@@ -24,6 +24,10 @@ This project is a simple web application that provides an interface for encrypti
 ### Running the Backend Server
 1. Clone the repository.
 2. Navigate to the project folder.
+3. 
+    ```sh
+    go mod tidy
+    ```
 3. Run the Go server:
    ```sh
    go run main.go
