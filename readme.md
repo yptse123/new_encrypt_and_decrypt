@@ -26,7 +26,7 @@ This project is a simple web application that provides an interface for encrypti
 2. Navigate to the project folder.
 3. Run the Go server:
    ```sh
-   go run server.go
+   go run main.go
    ```
    The server will start at `http://localhost:8080`.
 
